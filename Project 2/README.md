@@ -85,5 +85,5 @@ This project was completed as part of the DecodeLabs Data Analytics Internship P
 
 ## Project Report
 
-📄 **[View EDA Summary Report](EDA_Summary_Report.pdf)**
+📄 **[View EDA Summary Report](EDA%20Summary%20Report.pdf)**
 
