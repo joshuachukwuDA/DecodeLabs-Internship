@@ -83,9 +83,7 @@ This project was completed as part of the DecodeLabs Data Analytics Internship P
 * Analytical Thinking
 * Microsoft Excel
 
-* ## Project Report
+## Project Report
 
-A summarized version of the exploratory data analysis can be viewed here:
-
-📄 [EDA Summary Report](EDA Summary Report.pdf)
+📄 **[View EDA Summary Report](EDA_Summary_Report.pdf)**
 
