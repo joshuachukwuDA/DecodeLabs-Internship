@@ -87,5 +87,5 @@ This project was completed as part of the DecodeLabs Data Analytics Internship P
 
 A summarized version of the exploratory data analysis can be viewed here:
 
-📄 [EDA Summary Report](EDA_Summary_Report.pdf)
+📄 [EDA Summary Report](EDA Summary Report.pdf)
 
